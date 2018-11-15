@@ -1,0 +1,10 @@
+{
+    "collection": {
+        "version": "1.0",
+        "items": [],
+        "metadata": {
+            "total_hits": 0
+        },
+        "href": "https://images-api.nasa.gov/search?nasa_id=000000"
+    }
+}
